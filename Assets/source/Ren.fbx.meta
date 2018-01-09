@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 3284cf553f129a546bb4a909b1dd4a37
+timeCreated: 1515455152
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CameraRoot
+    100002: ChargePoint
+    100004: Hardpoints
+    100006: LaunchPoint
+    100008: MuzzlePrimary
+    100010: MuzzleSecondary
+    100012: Particle View 001
+    100014: //RootNode
+    100016: Ren 1
+    100018: Ren Footsteps
+    100020: Ren Head
+    100022: Ren HeadNub
+    100024: Ren L Calf
+    100026: Ren L Clavicle
+    100028: Ren L Finger0
+    100030: Ren L Finger01
+    100032: Ren L Finger02
+    100034: Ren L Finger0Nub
+    100036: Ren L Finger1
+    100038: Ren L Finger11
+    100040: Ren L Finger12
+    100042: Ren L Finger1Nub
+    100044: Ren L Finger2
+    100046: Ren L Finger21
+    100048: Ren L Finger22
+    100050: Ren L Finger2Nub
+    100052: Ren L Finger3
+    100054: Ren L Finger31
+    100056: Ren L Finger32
+    100058: Ren L Finger3Nub
+    100060: Ren L Finger4
+    100062: Ren L Finger41
+    100064: Ren L Finger42
+    100066: Ren L Finger4Nub
+    100068: Ren L Foot
+    100070: Ren L Forearm
+    100072: Ren L Hand
+    100074: Ren L Thigh
+    100076: Ren L Toe0
+    100078: Ren L Toe0Nub
+    100080: Ren L UpperArm
+    100082: Ren Model
+    100084: Ren Neck
+    100086: Ren Pelvis
+    100088: Ren R Calf
+    100090: Ren R Clavicle
+    100092: Ren R Finger0
+    100094: Ren R Finger01
+    100096: Ren R Finger02
+    100098: Ren R Finger0Nub
+    100100: Ren R Finger1
+    100102: Ren R Finger11
+    100104: Ren R Finger12
+    100106: Ren R Finger1Nub
+    100108: Ren R Finger2
+    100110: Ren R Finger21
+    100112: Ren R Finger22
+    100114: Ren R Finger2Nub
+    100116: Ren R Finger3
+    100118: Ren R Finger31
+    100120: Ren R Finger32
+    100122: Ren R Finger3Nub
+    100124: Ren R Finger4
+    100126: Ren R Finger41
+    100128: Ren R Finger42
+    100130: Ren R Finger4Nub
+    100132: Ren R Foot
+    100134: Ren R Forearm
+    100136: Ren R Hand
+    100138: Ren R Thigh
+    100140: Ren R Toe0
+    100142: Ren R Toe0Nub
+    100144: Ren R UpperArm
+    100146: Ren Root
+    100148: Ren Spine
+    100150: Ren Spine1
+    100152: Ren_L_StormFlower
+    100154: Ren_L_TunicA_00
+    100156: Ren_L_TunicA_01
+    100158: Ren_L_TunicA_Nub
+    100160: Ren_L_TunicB_00
+    100162: Ren_L_TunicB_01
+    100164: Ren_L_TunicB_Nub
+    100166: Ren_L_TunicC_00
+    100168: Ren_L_TunicC_01
+    100170: Ren_L_TunicC_02
+    100172: Ren_L_TunicC_Nub
+    100174: Ren_Mesh
+    100176: Ren_PonyTail00
+    100178: Ren_PonyTail01
+    100180: Ren_PonyTail02
+    100182: Ren_PonyTail03
+    100184: Ren_PonyTail04
+    100186: Ren_PonyTail_Nub
+    100188: Ren_R_StormFlower
+    100190: Ren_R_TunicA_00
+    100192: Ren_R_TunicA_01
+    100194: Ren_R_TunicA_Nub
+    100196: Ren_R_TunicB_00
+    100198: Ren_R_TunicB_01
+    100200: Ren_R_TunicB_Nub
+    100202: Ren_R_TunicC_00
+    100204: Ren_R_TunicC_01
+    100206: Ren_R_TunicC_02
+    100208: Ren_R_TunicC_Nub
+    100210: Top
+    100212: UI Top Point
+    400000: CameraRoot
+    400002: ChargePoint
+    400004: Hardpoints
+    400006: LaunchPoint
+    400008: MuzzlePrimary
+    400010: MuzzleSecondary
+    400012: Particle View 001
+    400014: //RootNode
+    400016: Ren 1
+    400018: Ren Footsteps
+    400020: Ren Head
+    400022: Ren HeadNub
+    400024: Ren L Calf
+    400026: Ren L Clavicle
+    400028: Ren L Finger0
+    400030: Ren L Finger01
+    400032: Ren L Finger02
+    400034: Ren L Finger0Nub
+    400036: Ren L Finger1
+    400038: Ren L Finger11
+    400040: Ren L Finger12
+    400042: Ren L Finger1Nub
+    400044: Ren L Finger2
+    400046: Ren L Finger21
+    400048: Ren L Finger22
+    400050: Ren L Finger2Nub
+    400052: Ren L Finger3
+    400054: Ren L Finger31
+    400056: Ren L Finger32
+    400058: Ren L Finger3Nub
+    400060: Ren L Finger4
+    400062: Ren L Finger41
+    400064: Ren L Finger42
+    400066: Ren L Finger4Nub
+    400068: Ren L Foot
+    400070: Ren L Forearm
+    400072: Ren L Hand
+    400074: Ren L Thigh
+    400076: Ren L Toe0
+    400078: Ren L Toe0Nub
+    400080: Ren L UpperArm
+    400082: Ren Model
+    400084: Ren Neck
+    400086: Ren Pelvis
+    400088: Ren R Calf
+    400090: Ren R Clavicle
+    400092: Ren R Finger0
+    400094: Ren R Finger01
+    400096: Ren R Finger02
+    400098: Ren R Finger0Nub
+    400100: Ren R Finger1
+    400102: Ren R Finger11
+    400104: Ren R Finger12
+    400106: Ren R Finger1Nub
+    400108: Ren R Finger2
+    400110: Ren R Finger21
+    400112: Ren R Finger22
+    400114: Ren R Finger2Nub
+    400116: Ren R Finger3
+    400118: Ren R Finger31
+    400120: Ren R Finger32
+    400122: Ren R Finger3Nub
+    400124: Ren R Finger4
+    400126: Ren R Finger41
+    400128: Ren R Finger42
+    400130: Ren R Finger4Nub
+    400132: Ren R Foot
+    400134: Ren R Forearm
+    400136: Ren R Hand
+    400138: Ren R Thigh
+    400140: Ren R Toe0
+    400142: Ren R Toe0Nub
+    400144: Ren R UpperArm
+    400146: Ren Root
+    400148: Ren Spine
+    400150: Ren Spine1
+    400152: Ren_L_StormFlower
+    400154: Ren_L_TunicA_00
+    400156: Ren_L_TunicA_01
+    400158: Ren_L_TunicA_Nub
+    400160: Ren_L_TunicB_00
+    400162: Ren_L_TunicB_01
+    400164: Ren_L_TunicB_Nub
+    400166: Ren_L_TunicC_00
+    400168: Ren_L_TunicC_01
+    400170: Ren_L_TunicC_02
+    400172: Ren_L_TunicC_Nub
+    400174: Ren_Mesh
+    400176: Ren_PonyTail00
+    400178: Ren_PonyTail01
+    400180: Ren_PonyTail02
+    400182: Ren_PonyTail03
+    400184: Ren_PonyTail04
+    400186: Ren_PonyTail_Nub
+    400188: Ren_R_StormFlower
+    400190: Ren_R_TunicA_00
+    400192: Ren_R_TunicA_01
+    400194: Ren_R_TunicA_Nub
+    400196: Ren_R_TunicB_00
+    400198: Ren_R_TunicB_01
+    400200: Ren_R_TunicB_Nub
+    400202: Ren_R_TunicC_00
+    400204: Ren_R_TunicC_01
+    400206: Ren_R_TunicC_02
+    400208: Ren_R_TunicC_Nub
+    400210: Top
+    400212: UI Top Point
+    2300000: Ren_L_StormFlower
+    2300002: Ren_R_StormFlower
+    3300000: Ren_L_StormFlower
+    3300002: Ren_R_StormFlower
+    4300000: Ren_L_StormFlower
+    4300002: Ren_R_StormFlower
+    4300004: Ren_Mesh
+    9500000: //RootNode
+    13700000: Ren_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
