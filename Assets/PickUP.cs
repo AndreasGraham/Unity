@@ -23,7 +23,7 @@ public class PickUP : MonoBehaviour {
             var playerController = other.collider.GetComponent <BallController>(); // gets ball controller script so we can get score var takes what ever type it recieves, auto fills
             if(playerController.tag != null) // checks to makes sure 
             {
-                playerController.score += scoreAdded;
+                playerController.score += scoreAdded; 
                 Destroy(gameObject);
             }
         }

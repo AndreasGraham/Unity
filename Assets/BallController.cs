@@ -12,6 +12,7 @@ public class BallController : MonoBehaviour {
     public int score;
     public int health;
     public float maxSprint;
+    public Vector3 checkpointLocation;
 	// Use this for initialization
 	void Start () {
         health = 10;
@@ -21,6 +22,12 @@ public class BallController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+       if (Input.GetButtonDown("respawn"))
+        {
+            transform.position = checkpointLocation;
+        }
+
         float horizontal = Input.GetAxis("Horizontal");
         float vertical = Input.GetAxis("Vertical");
         Vector3 move = new Vector3(horizontal, 0, vertical);
